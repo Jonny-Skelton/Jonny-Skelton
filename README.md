@@ -16,7 +16,7 @@
 
   <img src="https://img.shields.io/badge/Web%20Design-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white"/>
 
-</p>>
+</p>
 
 I primarily write code in C++ and Python. My long-term interests are in High-Performance Computing, Graph-based machine learning, and deep learning.
 
