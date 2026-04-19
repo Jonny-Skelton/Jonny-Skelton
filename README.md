@@ -22,7 +22,7 @@ I primarily write code in C++ and Python. My long-term interests are in High-Per
 
 Recently, I have been focusing on GPU programming and low-level design architecture. My goal is to maintain a granular understanding of systems, ensuring I can architect robust systems even as AI takes over the primary writing of code.
 
-I'm currently pursuing an MS degree at the University of Nebraska-Lincoln. I'm working as a Graduate Research Assistant in the CPS lab, where I'm focusing on writing CUDA kernels optimized for memory management in Spatial Temporal Transformers. I have prior experience working as a full-stack software engineer at two different companies.
+I'm currently pursuing an MS degree at the University of Nebraska-Lincoln. I'm working as a Graduate Research Assistant in the CPS lab, where I'm focusing on power-aware AI workloads. I have prior experience working as a full-stack software engineer at two different companies.
 <!--
 **Jonny-Skelton/Jonny-Skelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
